@@ -5,30 +5,40 @@ transition: fade
 layout: center
 ---
 
-# Bullet Journal
+<div class="textbox">
+  
+  # Bullet Journal
+  
+  ## Offload your brain, now!
+  
+  *A mindful productivity system in a notebook*
 
-## Offload your brain, now!
-
-*A mindful productivity system in a notebook*
+</div>
 
 ---
 
-# 🧠 What Is It?
+# 🧠 Bullet Journal. What Is It?
 
+* Also known as **BuJo**
 * Invented by [Ryder Carroll](https://bulletjournal.com)
+* A flexible analog method
+<v-click>
+
 * Combines:
 
-  * ✅ To-do list
-  * 📔 Diary
-  * 📅 Planner
-  * 🎨 Sketchbook
-* A flexible analog method also called **BuJo**
+  <li>✅ To-do list</li>
+  <li>📔 Diary</li>
+  <li>📅 Planner</li>
+  <li>🎨 Sketchbook</li>
+
+</v-click>
+
 
 <!--
-Start with a personal hook: 
+Start with a personal hook:
 
 Ever felt like digital tools were
-**too much** ? 
+**too much** ?
 The Bullet Journal helped me
 reclaim my focus and time.
 -->
@@ -38,14 +48,16 @@ reclaim my focus and time.
 # ✍️ Rapid Logging
 
 * Use quick bullets to capture thoughts:
-
-  * `•` Task
-  * `x` Completed
-  * `>` Migrated
-  * `o` Event
-  * `!` Note
-
-👉 This makes logging fast and structured
+<v-clicks>
+  
+  <li><code>•</code> Task</li>
+  <li><code>x</code> Completed</li>
+  <li><code>-></code> Migrated</li>
+  <li><code>o</code> Event</li>
+  <li><code>!</code> Note</li>
+  
+  👉 This makes logging fast and structured
+</v-clicks>
 
 <!--
 "This method helps me jot down without overthinking."
@@ -80,17 +92,23 @@ reclaim my focus and time.
 > “The Bullet Journal is not about how it looks, it’s about how it feels and functions.”
 > — Ryder Carroll
 
-✨ Start small. Reflect often. Stay present.
+<span pl-25>Start small.</span>
+
+<span pl-60>Reflect often.</span>
+
+<span pl-100>Stay present.</span>
 
 <br>
 <br>
 <br>
 
-
-## 📚 Want to Learn More?
-
-* [bulletjournal.com](https://bulletjournal.com)
-* YouTube: [Bullet Journal](https://www.youtube.com/watch?v=GfRf43JTqY4) by Ryder Carroll
+<div class="textbox">
+  
+  ## 📚 Want to Learn More?
+  
+  * [bulletjournal.com](https://bulletjournal.com)
+  * YouTube: [Bullet Journal](https://www.youtube.com/watch?v=GfRf43JTqY4) by Ryder Carroll
+</div>
 
 ---
 hide: true
