@@ -52,7 +52,7 @@ reclaim my focus and time.
   
   <li><code>•</code> Task</li>
   <li><code>x</code> Completed</li>
-  <li><code>-></code> Migrated</li>
+  <li><code>></code> Migrated</li>
   <li><code>o</code> Event</li>
   <li><code>!</code> Note</li>
   
@@ -72,7 +72,9 @@ reclaim my focus and time.
 * ✏️ Customizable to your life
 * 📵 Analog = no notifications
 
-"It’s productivity *with presence*."
+"It’s productivity <ins>
+  <em>with presence</em>
+</ins>."
 
 ---
 

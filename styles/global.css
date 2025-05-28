@@ -1,8 +1,11 @@
-  .slidev-layout {
+.slidev-layout {
+    display: grid;
     position: relative;
     font-size: larger;
-  }
-  .slidev-layout::before {
+    place-content: center;
+}
+
+.slidev-layout::before {
     content: '';
     position: absolute;
     top: 0;
@@ -14,22 +17,22 @@
     background-position: center;
     filter: invert(.4);
     z-index: -1;
-  }
+}
 
-  h1 {
-    @apply p-[-30px];
+h1 {
+    text-align: left;
     background-color: papayawhip;
     padding: 15px;
     border-radius: 5px 10px 30px;
-  }
+}
 
- body {
+body {
     color: rgb(9, 253, 147);
- }
+}
 
-   .textbox {
+.textbox {
     background-color: peachpuff;
     padding: 15px;
     border-radius: 5px 10px 30px;
     color: green;
-  }
+}
