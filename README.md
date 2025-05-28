@@ -21,6 +21,12 @@ https://ninocan.github.io/talk-bujo-lighting-talk
 -- `pnpm dev`
 -- visit <http://localhost:3030>
 
+## Hosting
+
+Hosted on GitHub Pages, following this doc page:
+[Building and hosting # GitHUb Pages - Sli.dev](https://sli.dev/guide/hosting#github-pages)
+
+
 ## Authors
 
 If you have any feedback, please reach out to me!
